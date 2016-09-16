@@ -90,7 +90,7 @@ export AWS_ACCESS_KEY_ID=xxxxxxxxxxxx
 ZONEID="xxxx"
 
 # The CNAME you want to update e.g. hello.example.com
-RECORDSET="demo.hc.tibcodemo.com"
+RECORDSET="demo.domain.com"
 ```
 
 For the AWS security keys please refer to the IAM service documentation. 
