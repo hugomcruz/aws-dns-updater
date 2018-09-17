@@ -69,9 +69,9 @@ Download the shell script from the GIT repository
 git clone https://github.com/hugomcruz/aws-dns-updater.git
 ```
 
-Update the shell scrip
+Update the shell script
 ```
-vi /opt/scripts/aws-dns-updater/updatedns.sg
+vi /opt/scripts/aws-dns-updater/updatedns.sh
 ```
 Update the variables in the script referenced in bold. 
 
